@@ -5,3 +5,9 @@ The PyZX Documentation: https://pyzx.readthedocs.io/en/latest/ explains the appl
 
 Some doubts regarding application of My Quantum Circuit were answered by Dr. Kissinger Himself so the ZX calculus equivalent is correctly coded here.
 
+Important Tutorials for better understanding:
+1. https://www.youtube.com/watch?v=JafI_LZts2g&t=1s&ab_channel=QNLP
+2. https://www.youtube.com/watch?v=aGZ9prJ91Fo&ab_channel=FOSDEM
+3. https://www.youtube.com/watch?v=7Fvjpjhimic&ab_channel=OxfordQuantumVideo
+
+Coders may contact me for any help or issues, just respond on the code.
