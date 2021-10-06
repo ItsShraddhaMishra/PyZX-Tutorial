@@ -10,4 +10,4 @@ Important Tutorials for better understanding:
 2. https://www.youtube.com/watch?v=aGZ9prJ91Fo&ab_channel=FOSDEM
 3. https://www.youtube.com/watch?v=7Fvjpjhimic&ab_channel=OxfordQuantumVideo
 
-Coders may contact me for any help or issues, just respond on the code.
+Coders may contact me for any help or issues, just respond on the code. :) .
